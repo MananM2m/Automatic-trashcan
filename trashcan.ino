@@ -2,7 +2,7 @@
 #include <Servo.h>
 #include "IRremote.h"
 
-HCSR04 uss(6,7); //echo trig
+HCSR04 uss(6,7); 
 
 Servo myservo;
 

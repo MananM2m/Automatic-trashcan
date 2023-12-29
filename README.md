@@ -44,3 +44,26 @@ void loop() {
 - Infrared Receiver VS 1838 38kHz
 - SG90 servo motor
 - RCWL 1401 ultrasonic sensor
+
+### Schematics
+![image_2023-06-25_195846691](https://github.com/MananM2m/Automatic-trashcan/assets/129023574/1d684850-ce7c-44fa-913a-f5ab95e0818d)
+![image_2023-06-25_195818396](https://github.com/MananM2m/Automatic-trashcan/assets/129023574/1b2fc5fe-a8cd-474d-8aef-cf5166cbd046)
+
+---
+
+## Final prototype
+
+
+
+https://github.com/MananM2m/Automatic-trashcan/assets/129023574/946e39cc-dd19-40e2-acec-81ba5b74452e 
+
+https://github.com/MananM2m/Automatic-trashcan/assets/129023574/178a085c-fded-40bf-b25d-1e0cc375d607
+
+![IMG_4455 (1)-min](https://github.com/MananM2m/Automatic-trashcan/assets/129023574/838edab2-f288-4625-96b0-c5a53aecd42d)
+
+
+
+
+
+
+

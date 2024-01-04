@@ -7,7 +7,7 @@ The primary objective of this project was to develop a functional prototype of a
 
 ## Design
 
-The body of the trashcan was made using cardboard. Inside, there is an Arduino board, which takes input from an ultrasonic and infrared sensor to control a servo motor, which lifts or lowers the flap on the trashcan.
+The body of the trashcan was made using cardboard. Inside, there is an Arduino board, with a ATmega328 microcontroller IC, which takes input from an ultrasonic and infrared sensor to control a servo motor, which lifts or lowers the flap on the trashcan.
 
 ### Code
 
